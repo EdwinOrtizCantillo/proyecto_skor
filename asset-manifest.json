@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/proyecto_skor/static/css/main.073c9b0a.css",
+    "main.js": "/proyecto_skor/static/js/main.998b3da6.js",
+    "static/js/787.74bf9b09.chunk.js": "/proyecto_skor/static/js/787.74bf9b09.chunk.js",
+    "static/media/logo.svg": "/proyecto_skor/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/proyecto_skor/index.html",
+    "main.073c9b0a.css.map": "/proyecto_skor/static/css/main.073c9b0a.css.map",
+    "main.998b3da6.js.map": "/proyecto_skor/static/js/main.998b3da6.js.map",
+    "787.74bf9b09.chunk.js.map": "/proyecto_skor/static/js/787.74bf9b09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.998b3da6.js"
+  ]
+}
